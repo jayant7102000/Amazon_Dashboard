@@ -49,8 +49,29 @@ _**Benefits**_
   👁️ Enhanced Visibility: Monitor every sales aspect.
   
   
-**Conclusion**
+_**Conclusion**_
 
 Transform your Amazon store with actionable insights and stay ahead of the competition with our Power BI report! 📈🔍✨
+
+
+_**Screenshots**_
+
+**1**
+
+<img width="585" alt="image" src="https://github.com/jayant7102000/Amazon_Dashboard/assets/129490442/efc77d77-c670-4d7d-aba6-51af8f6f0934">
+
+**2**
+
+<img width="593" alt="image" src="https://github.com/jayant7102000/Amazon_Dashboard/assets/129490442/0f90a1f9-3502-4312-8265-c92fb76df465">
+
+**3**
+<img width="585" alt="image" src="https://github.com/jayant7102000/Amazon_Dashboard/assets/129490442/b7038b8e-1e08-44ef-8b3c-e1e10d45ecbf">
+
+**4**
+
+<img width="586" alt="image" src="https://github.com/jayant7102000/Amazon_Dashboard/assets/129490442/282f8bf3-46cd-4344-b0ca-4bf613589e6c">
+
+
+
 
 
