@@ -74,5 +74,6 @@ _**Screenshots**_
 
 
 
+_**Note: Download the POWERBI Report to checkout each and every functionality of the report**_
 
 
