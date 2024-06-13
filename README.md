@@ -4,7 +4,7 @@ The Amazon Sales Performance Power BI report provides a comprehensive view of sa
 
 # Key Features
 **1. Sales Dashboard**
-Total Sales: Displays the total sales revenue over a specified period.
+     _Total Sales:_ Displays the total sales revenue over a specified period.
 Units Sold: Shows the number of units sold, providing insight into product popularity.
 Sales by Category: Visualizes sales performance across different product categories.
 Sales by Region: Highlights geographical sales distribution to understand regional demand.
