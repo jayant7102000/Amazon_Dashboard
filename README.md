@@ -5,7 +5,7 @@ Unlock the power of your Amazon store with our dynamic Power BI report! 🚀 Div
 
 
 _**Key Features**_
-  💰 Total Sales: Track revenue at a glance.
+  💰 Total Sales: Track revenue at a glance./n
   📦 Units Sold: See what’s flying off the shelves.
   🌍 Sales by State: Discover which state is highest in purchase.
   🏷️ Sales by City: Identify your star cities.
